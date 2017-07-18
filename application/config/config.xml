@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><config ver="1.0">
+<property name="DEBUG_FLAG">TERM</property>
+<property name="SAVE_PATH">/save/</property>
+<property name="DEFAULT_CSV_HEADER_STATE">FALSE</property>
+<property name="DEFAULT_CSV_STRING_QUALIFIER">DOUBLE_QUOTE</property>
+<property name="DEFAULT_CSV_LINE_TERMINATOR">{CR,LF,EOL}</property>
+<property name="DEFAULT_CSV_PREVIEW_ROWS">100</property>
+<property name="DEFAULT_CSV_DELIMITER">,</property>
+<property name="CSV_CACHE_SIZE">32768</property>
+
+</config>
+

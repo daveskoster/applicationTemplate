@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><users ver="1.0">
+<user name="admin">
+	<userproperty name="GUID">UUIDVAL</userproperty>
+	<userproperty name="PASS">HASHEDVAL</userproperty>
+	<userproperty name="PERMISSIONS">HASHEDVAL</userproperty>
+</user>
+
+</config>
+
